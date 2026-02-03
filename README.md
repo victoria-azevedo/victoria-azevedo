@@ -14,8 +14,7 @@
 />
 
 <p align="left">
-  I learn best through practical projects and hands-on coding.<br>
-  I’ve worked with C# by developing a game from scratch, and with SQL for database basics.<br>
-  I also have experience creating websites using HTML, CSS, and React.<br>
-  Currently learning JavaScript and Java while exploring different areas of technology.
+I’m currently building a strong foundation in programming through academic and personal projects. I have experience with C#, having developed a game from scratch, as well as SQL for database fundamentals. <br>
+I have also worked with HTML, CSS, and React by developing a website, and I’m currently learning JavaScript and Java to expand my understanding of software development. <br>
+I’m focused on continuous learning, hands-on practice, and exploring different areas of technology to define my future specialization.
 </p>
