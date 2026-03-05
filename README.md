@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/victoria-azevedo/victoria-azevedo/refs/heads/main/Welcome%20to%20Victoria%E2%80%99s%20GitHub%5D.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/victoria-azevedo/victoria-azevedo/refs/heads/main/Welcome%20to%20Victoria%E2%80%99s%20GitHub%5D.jpg" width="70%" />
 </p>
 
 
